@@ -1,5 +1,3 @@
-# waboxa-for-woocommerce
-WooCommerce siparişleri için özelleştirilebilir WhatsApp mesaj butonları (alındı, kargo, teslim).
 # Waboxa for WooCommerce
 
 📱 **Waboxa**, WooCommerce siparişleri için otomatik veya manuel olarak **WhatsApp mesajları** göndermeni sağlar.  
@@ -47,4 +45,8 @@ Licensed under the **GNU General Public License v2.0**.
 Waboxa açık kaynaklıdır. Katkı yapmak istersen:  
 - Pull request açabilir  
 - Yeni özellik önerebilir  
-- veya hata bi
+- veya hata bildiriminde bulunabilirsin 🙌
+
+---
+
+**Made with ❤️ by Kodecra**
