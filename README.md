@@ -1,5 +1,9 @@
 # Waboxa for WooCommerce
 
+<p align="center">
+  <img src="https://github.com/kodecra/waboxa-for-woocommerce/raw/main/assets/banner-772x250.png" alt="Waboxa for WooCommerce Banner">
+</p>
+
 📱 **Waboxa**, WooCommerce siparişleri için otomatik veya manuel olarak **WhatsApp mesajları** göndermeni sağlar.  
 Sipariş alındı, kargoya verildi veya teslim edildi gibi durumlar için hazır şablonlarla müşterinle hızlıca iletişim kurabilirsin.
 
@@ -23,6 +27,25 @@ Sipariş alındı, kargoya verildi veya teslim edildi gibi durumlar için hazır
 3. Yönetim panelinde `WooCommerce > Waboxa` sekmesine gir.  
 4. Mesaj şablonlarını düzenle, kayıt et.  
 5. Sipariş sayfasına girip, müşterine WhatsApp’tan mesaj gönder!
+
+---
+
+## 🖼️ Uygulama Görselleri
+
+<p align="center">
+  <img src="https://github.com/kodecra/waboxa-for-woocommerce/tree/main/waboxa-for-woocommerce/assets/screenshot-admin.jpg" alt="Waboxa Yönetim Paneli" width="700"><br>
+  <em>Yönetim panelinde sipariş mesaj şablonlarını düzenleyebilirsin.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kodecra/waboxa-for-woocommerce/tree/main/waboxa-for-woocommerce/assets/screenshot-order.jpg" alt="Waboxa Sipariş Sayfası Butonları" width="700"><br>
+  <em>Sipariş detay sayfasında WhatsApp mesaj butonlarını görebilirsin.</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kodecra/waboxa-for-woocommerce/tree/main/waboxa-for-woocommerce/assets/screenshot-wa.jpg" alt="Waboxa WhatsApp Mesaj Örneği" width="700"><br>
+  <em>Gönderilen WhatsApp mesajı örneği — müşteriyle anında iletişim! 💬</em>
+</p>
 
 ---
 
