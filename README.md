@@ -1,9 +1,5 @@
 # Waboxa for WooCommerce
 
-<p align="center">
-  <img src="https://github.com/kodecra/waboxa-for-woocommerce/raw/main/assets/banner-772x250.png" alt="Waboxa for WooCommerce Banner">
-</p>
-
 📱 **Waboxa**, WooCommerce siparişleri için otomatik veya manuel olarak **WhatsApp mesajları** göndermeni sağlar.  
 Sipariş alındı, kargoya verildi veya teslim edildi gibi durumlar için hazır şablonlarla müşterinle hızlıca iletişim kurabilirsin.
 
